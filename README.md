@@ -1,2 +1,4 @@
 # Palomakoba_3.0
-Projeto Palomakoba e suas matérias. Nelas estão atividades e trabalhos desenvolvido durante o projeto de capacitação Palomakoba3.0 que foi ministrado na UNIR (Universidade Federal de Rondônia.
+Projeto Palomakoba e suas matérias. 
+
+Nesse repositório estão atividades e trabalhos desenvolvido durante o projeto de capacitação Palomakoba3.0 com apoio da Motorola e o Instituto Eldorado que foi ministrado na UNIR (Universidade Federal de Rondônia).
